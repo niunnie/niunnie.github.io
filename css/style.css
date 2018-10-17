@@ -1,0 +1,76 @@
+.title {
+    background: url('../img/43500559_172630356981575_2228656644403757056_n.jpg') no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 6rem;
+    color: white
+}
+
+.xyz a p {
+    color: #030303;
+    font-size: 20px
+}
+
+.xyz a h3:hover {
+    text-decoration: none
+}
+
+.hien h3 {
+    text-align: center;
+    color: palevioletred;
+    font-size: 25spx
+}
+
+.price {
+    position: absolute;
+    top: 1.5rem;
+    right: 2.5rem;
+    border-radius: 50%;
+    background: black;
+    font-size: 12px;
+    color: pink;
+    padding: 20px
+}
+
+.abc a {
+    color: palevioletred;
+    text-decoration: none
+}
+
+.abc a:hover {
+    color: white
+}
+
+.ni a:hover {
+    color: palevioletred;
+    background: hsl(0, 0%, 1%);
+}
+
+.title h1 {
+    line-height: 2.5rem;
+}
+
+.title p {
+    line-height: 1.5rem;
+    opacity: .6;
+}
+
+.lines {
+    background: #030303;
+    margin-bottom: 2rem;
+}
+
+.lines .breadcrumb {
+    margin-bottom: 0;
+    background: none;
+    padding: .75rem 0;
+}
+
+.shop figure {
+    border: 1px solid pink;
+    padding: 1rem
+}
+
+.shop figure:hover {
+    box-shadow: 0 0 15px rgba(179, 179, 179, 0.75);
+}
